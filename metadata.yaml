@@ -1,0 +1,32 @@
+_repo: Amelia-Volume-1_6095
+creator:
+  author:
+    agent_name: Fielding, Henry
+    aliases:
+    - Trottplaid, John
+    - Keyber, Conny
+    - Gualterus, Petrus
+    - Drawcansir, Alexander, Sir
+    - Vinegar, Hercules
+    birthdate: 1707
+    deathdate: 1754
+    gutenberg_agent_id: '537'
+    url: http://www.gutenberg.org/2009/agents/537
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Fielding
+description: ''
+gutenberg_issued: '2004-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6095'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Married women -- Fiction'
+- !lcsh 'England -- Fiction'
+- !lcsh 'Domestic fiction'
+- !lcc 'PR'
+- !lcsh 'Didactic fiction'
+title: Amelia — Volume 1
+url: http://www.gutenberg.org/ebooks/6095
